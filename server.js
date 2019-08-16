@@ -14,5 +14,4 @@ app.on('post', '/ping', (req, res) => {
   res.send(req.body)
 })
 
-
 app.start({ port: '4000' })

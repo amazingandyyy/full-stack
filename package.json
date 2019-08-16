@@ -34,15 +34,14 @@
     "url": "git://github.com/amazingandyyy/full-stack.git"
   },
   "devDependencies": {
-    "@amazingandyyy/node-runner": "0.0.5",
-    "husky": "^3.0.3",
+    "@amazingandyyy/git-hooks": "^0.1.0",
+    "@amazingandyyy/node-runner": "0.0.6",
     "lint-staged": "^9.2.1",
     "standard": "*"
   },
   "dependencies": {
-    "@amazingandyyy/body-parser": "latest",
-    "@amazingandyyy/node-server": "latest",
-    "@amazingandyyy/server-logger": "latest",
-    "morgan": "^1.9.1"
+    "@amazingandyyy/body-parser": "0.0.6",
+    "@amazingandyyy/node-server": "0.0.4",
+    "@amazingandyyy/server-logger": "0.0.3"
   }
 }
